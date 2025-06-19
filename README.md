@@ -71,12 +71,8 @@ Hello!
 64.
 65.
 66.
-<<<<<<< HEAD
-67.
-68. GOKUL M
 67. Mohan Kumar C
 68.
->>>>>>> 521793cb2393f287288fd869cb2921f2cd932092
 69.
 70. Vandana.S
 71.
