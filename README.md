@@ -7,7 +7,7 @@ Hello!
 
 1.
 2.
-3. GORO X 03
+3. GORO-X
 4.
 5.
 6.
